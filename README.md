@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there! I'm [Your Name]  
 
-<!--
-**eishax1/eishax1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year Computing Systems Student** @ Ulster University  
+💻 **Aspiring Software Developer** | AI Enthusiast | Full-Stack Explorer    
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I'm passionate about building intelligent systems, solving complex problems and developing innovative software solutions.   
+
+---
+
+## 🛠️ Skills and Technologies
+🔹 **Languages:** Java, Python, JavaScript, R  
+🔹 **Frameworks & Tools:** Git, Figma, Jira, Trello  
+🔹 **AI & Data Science:** Machine Learning, Data Preprocessing, Algorithm Development  
+🔹 **Databases & Cloud:** MySQL, PostgreSQL, MongoDB, Azure  
+
+---
+
+## 🎯 What I'm Looking For  
+A **graduate software developer role** where I can contribute, learn, and grow with an innovative team. If you have an opportunity or just want to geek out over AI, let's connect!  
+
+📫 **Reach me at:** [eishasultana92@gmail.com]  
+💼 **LinkedIn:** [www.linkedin.com/in/eisha-sultana]  
+
+
