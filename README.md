@@ -1,6 +1,7 @@
-  # Hi,I'm Eisha ✨  
+  # Hi, I'm Eisha ✨  
  
  🎓 **Final Year Computing Systems Student** @ Ulster University  
+ 👩🏻‍💻 **AI Intern** @ Binome
  💻 **Aspiring Software Developer** | AI Enthusiast | Full-Stack Explorer    
  
  ## 🚀 About Me  
