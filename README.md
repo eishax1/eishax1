@@ -3,16 +3,12 @@
  🎓 **Final Year Computing Systems Student** @ Ulster University  
  💻 **Aspiring Software Developer** | AI Enthusiast | Full-Stack Explorer    
  
- ---
- 
  ## 🚀 About Me  
  I'm passionate about building intelligent systems, solving complex problems and developing innovative software solutions.   
  
- ---
  ## 🎯 What I'm Looking For  
  A **graduate software developer role** where I can contribute, learn, and grow with an innovative team. If you have an opportunity or just want to geek out over AI, let's connect!  
- 
- 📫 **Reach me at:** [eishasultana92@gmail.com]  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eisha-sultana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eishasultana92@gmail.com) 
