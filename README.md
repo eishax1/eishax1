@@ -4,10 +4,10 @@
  👩🏻‍💻 **AI Intern** @ Binome<br/>
  💻 **Aspiring Software Developer** | AI Enthusiast | Full-Stack Explorer    
  
- ## 🚀 About Me  
+ ##  About Me  
  I'm passionate about building intelligent systems, solving complex problems and developing innovative software solutions.   
  
- ## 🎯 What I'm Looking For  
+ ## What I'm Looking For  
  A **graduate software developer role** where I can contribute, learn, and grow with an innovative team. If you have an opportunity or just want to geek out over AI, let's connect!  
 
 
